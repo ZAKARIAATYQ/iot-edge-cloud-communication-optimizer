@@ -1,0 +1,2 @@
+scenario,epsilon,transmitted,reduction_percentage,global_MAE,global_RMSE,global_R2,max_MAE,std_MAE,max_RMSE,std_RMSE,execution_time_s
+dynamic_threshold,dynamic,17208,60.82,0.1875,0.2873,0.9991,0.1913,0.0031,0.2933,0.0045,169.96

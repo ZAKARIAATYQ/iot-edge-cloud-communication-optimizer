@@ -1,0 +1,7 @@
+Best alpha: 0.5
+Best beta:  0.4
+Best gamma: 0.1
+Best score: 0.5707
+
+Best LOOKBACK:   10
+Best HYST_DELTA: 0.05

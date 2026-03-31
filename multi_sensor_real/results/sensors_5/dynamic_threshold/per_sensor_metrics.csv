@@ -1,0 +1,6 @@
+sensor_id,city,MAE,RMSE,R2,transmissions,total_points,reduction_pct
+0,Azilal,0.188,0.2894,0.999,3485,8784,60.33
+1,Beni Mellal,0.1822,0.2807,0.9992,3511,8784,60.03
+2,Fquih Ben Salah,0.1837,0.2812,0.9991,3407,8784,61.21
+3,Khenifra,0.1826,0.2824,0.9992,3529,8784,59.82
+4,Marrakech,0.1816,0.2792,0.999,3445,8784,60.78

@@ -1,0 +1,4 @@
+Critical Event Threshold: |ΔT| > 2.0 °C
+Total Critical Events: 7411
+Missed Critical Events: 0
+Detection Rate: 100.00%

@@ -1,0 +1,4 @@
+scenario,epsilon,transmitted,reduction_percentage,MAE,RMSE,R2
+baseline,N/A,8784,0.0,0.0,0.0,1.0
+epsilon_0_5,0.5,3943,55.11,0.129,0.2039,0.9996
+epsilon_1_0,1.0,2336,73.41,0.3137,0.4369,0.998

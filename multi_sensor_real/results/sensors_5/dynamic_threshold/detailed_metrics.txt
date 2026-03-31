@@ -1,0 +1,16 @@
+--- MULTI-SENSOR SIMULATION METRICS ---
+Total Points Across All Sensors: 43920
+Transmitted Points: 17377
+Transmission Reduction: 60.43%
+
+--- GLOBAL RECONSTRUCTION QUALITY ---
+Global MAE: 0.1836
+Global RMSE: 0.2826
+Global R2: 0.9991
+
+--- PER-SENSOR STATS ---
+Average of Per-Sensor MAE: 0.1836
+Max (Worst-Case) MAE: 0.1880
+Std Dev of MAE Across Sensors: 0.0023
+Max RMSE: 0.2894
+Std Dev of RMSE Across Sensors: 0.0036

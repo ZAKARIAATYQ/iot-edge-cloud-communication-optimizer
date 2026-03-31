@@ -1,0 +1,13 @@
+--- SIMULATION METRICS ---
+Total Points: 8784
+Transmitted Points: 2336
+Transmission Reduction: 73.41%
+
+--- RECONSTRUCTION QUALITY ---
+MAE: 0.3137
+RMSE: 0.4369
+R2: 0.9980
+
+--- CRITICAL EVENTS (|ΔT| > 2°C) ---
+Total Critical Events: 1595
+Missed Events (Not Transmitted): 862

@@ -1,0 +1,15 @@
+--- EDGE ENERGY REPORT ---
+
+Initial Energy: Random Uniform [80, 100]%
+Final Energy: 35.0917%
+Total Consumed: 108.0000
+Solar Charge Rate: 0.02
+
+Per Sensor Energy Usage:
+City                         Compute    Transmission           Total
+--------------------------------------------------------------------
+Azilal                        4.3920         17.4550         21.8470
+Beni Mellal                   4.3920         17.3450         21.7370
+Fquih Ben Salah               4.3920         16.7600         21.1520
+Khenifra                      4.3920         17.5450         21.9370
+Marrakech                     4.3920         16.9350         21.3270
